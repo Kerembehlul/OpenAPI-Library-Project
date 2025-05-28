@@ -19,7 +19,7 @@
 
 ### 🔗 GitHub Repo Linki
 
-👉 [https://github.com/Kerembehlul/OpenAPI-Library-Project](https://github.com/kullaniciadi/OpenAPI-Library-Project)
+👉 [https://github.com/Kerembehlul/OpenAPI-Library-Project](https://github.com/Kerembehlul/OpenAPI-Library-Project)
 
 ---
 
