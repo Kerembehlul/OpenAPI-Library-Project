@@ -14,6 +14,7 @@ Bu API, kitapların, öğrencilerin ve ödünç alma işlemlerinin yönetilmesin
 
 ## 📂 Dosya Yapısı
 /
+
 ├── openapi.yaml # API tanım dosyası
 
 ├── DELIVERY.md # Teslim raporu
